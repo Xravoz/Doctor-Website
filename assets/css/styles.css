@@ -358,7 +358,7 @@ img {
   font-family: myFirstFont-med;
   
 }
-a button:hover{
+/* a button:hover{
    padding: 9px;
   width: 200px;
   border-radius: 30px;
@@ -368,7 +368,7 @@ a button:hover{
   background: linear-gradient(138deg, rgb(34, 105, 191) 0%, rgb(71, 29, 179) 100%);
   color: #E6E7E9;
   font-family: myFirstFont-med;
-}
+} */
 
 
 @media screen and (min-width: 1024px) {
